@@ -1,0 +1,17 @@
+add_dreapta
+3
+add_dreapta
+6
+add_dreapta
+8
+afisare
+add_interior
+7
+2
+afisare
+sterge_stanga
+afisare
+sterge_elem_dupa_val
+21
+sterge_stanga
+afisare

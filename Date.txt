@@ -1,0 +1,14 @@
+add_final
+5
+add_inceput
+21
+add_final  
+1
+afisare
+sterge_final 
+afisare
+sterge_inceput
+afisare
+add_final
+44
+afisare
